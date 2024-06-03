@@ -72,26 +72,26 @@ I'm using pylsp in the basic example, but I found that VSCode shows me different
 # Other LSP servers
 According to ChatGPT, looks like we could easily reuse this very same code to parse almost any file if we run the right LSP server:
 
-##TypeScript/JavaScript
+## TypeScript/JavaScript
 * typescript-language-server
 * Install via: npm install -g typescript-language-server typescript.
 
-##C/C++
+## C/C++
 * clangd
 * Part of the LLVM project.
 * Install via: brew install llvm (or download from LLVM's website).
 
-##Java
+## Java
 * Eclipse JDT Language Server
 * Part of the Eclipse IDE.
 * Install via Eclipse IDE or use the jdtls project.
 
-##Go
+## Go
 * gopls
 * Developed by the Go team.
 * Install via: go install golang.org/x/tools/gopls@latest.
 
-##Rust
+## Rust
 * rust-analyzer
 * A new and experimental LSP server for Rust.
 * Install via: cargo install rust-analyzer.
@@ -101,12 +101,12 @@ According to ChatGPT, looks like we could easily reuse this very same code to pa
 * Provides comprehensive PHP language support.
 * Install via: npm install -g intelephense.
 
-##Ruby
+## Ruby
 * solargraph
 * Provides code completion, documentation, and more for Ruby.
 * Install via: gem install solargraph.
 
-##JavaScript/TypeScript
+## JavaScript/TypeScript
 * typescript-language-server
 * For TypeScript and JavaScript.
 * Install via: npm install -g typescript typescript-language-server.
