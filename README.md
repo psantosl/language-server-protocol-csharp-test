@@ -96,7 +96,7 @@ According to ChatGPT, looks like we could easily reuse this very same code to pa
 * A new and experimental LSP server for Rust.
 * Install via: cargo install rust-analyzer.
 
-##PHP
+## PHP
 * intelephense
 * Provides comprehensive PHP language support.
 * Install via: npm install -g intelephense.
